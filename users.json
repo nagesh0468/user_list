@@ -1,22 +1,3 @@
 {
-  "users": [
-    {
-      "id": "5421",
-      "name": "Nagesh",
-      "email": "nagesg@gmail.com",
-      "mobile": "9638527410"
-    },
-    {
-      "id": "bbef",
-      "name": "Raju",
-      "email": "rajr@gmail.com",
-      "mobile": "7894596320"
-    },
-    {
-      "id": "9788",
-      "name": "anil",
-      "email": "ani@gmail.com",
-      "mobile": "7418529630"
-    }
-  ]
+  "users": []
 }
